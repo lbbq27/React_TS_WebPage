@@ -1,7 +1,7 @@
 
 # Web Page Project with React and Typescript
 
-# Packages for Design:
+# Design Packages:
 
  ## npm install:
 - framer-motion
@@ -9,9 +9,14 @@
 - react-router-dom                  //---for a Web Page with navigation to another pages
 - @heroicons/react         //--- group from tailwind
 
-# Packages for Develop:
+# Development Packages:
 
 ## npm install -D
 - @types/react-anchor-link-smooth-scroll@1.0.2        //---for One Landing Page  
 - @types/node
 
+# Extensions
+
+## install from VSC
+- Tailwind Documentation   //alfredbirc ---  for windows:    crtl + alt + t 
+- Tailwind CSS IntelliSense
